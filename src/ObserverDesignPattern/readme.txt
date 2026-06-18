@@ -1,0 +1,1 @@
+Observer Design Pattern mainly used in notification or alert to the client.
