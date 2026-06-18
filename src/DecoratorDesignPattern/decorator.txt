@@ -1,0 +1,9 @@
+- Decorator pattern is also known as wrapper.
+- attach a flexible additional responsibilities to an object dynamically
+- It uses  composition instead of inheritance to extend functionality of an object at runtime.
+
+Usage of Decorator Pattern
+When you want to transparently and dynamically add responsibilities to objects without affecting other objects.
+When you want to add responsibilities to an object that you may want to change in future.
+
+example: pizza shop
